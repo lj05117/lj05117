@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Studying🌱
+![HTML5](http://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](http://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JAVASCRIPT](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![REACT](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![PYTHON](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!--
 **lj05117/lj05117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj05117)](https://solved.ac/lj05117)
