@@ -7,7 +7,7 @@
 ![REACT](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![PYTHON](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JAVA](http://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<!--<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">-->
 <!--
 **lj05117/lj05117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
